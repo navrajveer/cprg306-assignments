@@ -1,12 +1,21 @@
+
 import Link from 'next/link';
 
-export default function Home() {
+export default function StudentInfo() {
   return (
-    <main>
-      <h1>CPRG 306: Web Development 2 - Assignments</h1>
-      <Link href="/week2">
-        Go to Week 2 Assignment
+    <div>
+      <p>Navrajveer Kaur Mauhar</p>
+     <p>
+      <Link href="./week2">
+        Week 2 Assignment
       </Link>
-    </main>
+      </p>
+      
+      <p>
+        <Link href="./week3">
+        Week 3 Assignment
+      </Link>
+      </p>
+    </div>
   );
 }
