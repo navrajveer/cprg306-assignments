@@ -4,7 +4,7 @@ export default function StudentInfo() {
   return (
     <div>
       <p>Navrajveer Kaur Mauhar</p>
-      <Link href="/week2">
+      <Link href="https://github.com/navrajveer/cprg306-assignments">
         github
       </Link>
     </div>

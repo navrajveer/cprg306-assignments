@@ -10,10 +10,14 @@ export default function StudentInfo() {
         Week 2 Assignment
       </Link>
       </p>
-      
       <p>
         <Link href="./week3">
         Week 3 Assignment
+      </Link>
+      </p>
+      <p>
+      <Link href="./week-4">
+        Week 4 Assignment
       </Link>
       </p>
     </div>
