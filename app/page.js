@@ -30,6 +30,11 @@ export default function StudentInfo() {
         Week 6 Assignment
       </Link>
       </p>
+      <p>
+      <Link href="./week-7">
+        Week 7 Assignment
+      </Link>
+      </p>
     </div>
   );
 }
