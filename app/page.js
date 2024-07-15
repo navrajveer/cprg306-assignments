@@ -35,6 +35,11 @@ export default function StudentInfo() {
         Week 7 Assignment
       </Link>
       </p>
+      <p>
+      <Link href="securityDemo">
+        Week 8 Assignment
+      </Link>
+      </p>
     </div>
   );
 }
